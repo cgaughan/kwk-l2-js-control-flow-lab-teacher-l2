@@ -12,14 +12,6 @@ function scuberGreetingForFeet(distanceTraveled) {
 
 function ternaryCheckCity (city) {
   return city === ("NYC") ? `Ok, sounds good.` : `No go.`;
-/*
-  switch(city) {
-    case 'NYC':
-      return 'Ok, sounds good.';
-    default:
-      return 'No go.'
-  }
-  */
 }
 
 function switchOnCharmFromTip (generosityOfTip) {
